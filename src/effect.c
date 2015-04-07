@@ -1,8 +1,6 @@
 // ############################################
 // 
 // 4x4x4 LED Cube project
-// By Christian Moen 2008
-// chr@syntaks.org
 // Lisence: GPL
 //
 // Graphic effects
